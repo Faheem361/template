@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63be4b49.css",
+    "main.js": "/static/js/main.253f23f1.js",
+    "static/js/787.e7f6d79d.chunk.js": "/static/js/787.e7f6d79d.chunk.js",
+    "static/media/CardRed.png": "/static/media/CardRed.a19efcc1118ec6238729.png",
+    "static/media/Card3.png": "/static/media/Card3.5470a6dd4974ef06ef24.png",
+    "static/media/back.png": "/static/media/back.ed30fe5fb2ef28b5c881.png",
+    "static/media/redman.png": "/static/media/redman.29665fb71e7473824db0.png",
+    "static/media/whitegirl.png": "/static/media/whitegirl.b1dfdd2edda23873b51b.png",
+    "static/media/card1.png": "/static/media/card1.65d0fbed43bd88988031.png",
+    "static/media/GiftBox.png": "/static/media/GiftBox.1007e704304a4f7b0607.png",
+    "static/media/Lore.png": "/static/media/Lore.184c6c37dde946c58e9e.png",
+    "static/media/whiteman.png": "/static/media/whiteman.cf4df8c373108020b5d7.png",
+    "static/media/Roadmap.png": "/static/media/Roadmap.6551d7426624d978bc80.png",
+    "static/media/Roadmap2.png": "/static/media/Roadmap2.51bdb932452ec3238f8d.png",
+    "static/media/thelore.png": "/static/media/thelore.26e7c5f84e866258c5b0.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.63be4b49.css.map": "/static/css/main.63be4b49.css.map",
+    "main.253f23f1.js.map": "/static/js/main.253f23f1.js.map",
+    "787.e7f6d79d.chunk.js.map": "/static/js/787.e7f6d79d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63be4b49.css",
+    "static/js/main.253f23f1.js"
+  ]
+}

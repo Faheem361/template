@@ -149,3 +149,21 @@
     position: relative;
       transform: translate(-3px, -32px);
   }
+  .btn-mint{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+  }
+.nav-link{
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+display: flex;
+align-items: center;
+
+color: #0D0D0D;
+}

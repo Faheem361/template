@@ -125,7 +125,11 @@ color: #0D0D0D;
   background-image: url('../../assets/back.png');
   background-position: top;
   background-repeat: no-repeat;
+  /* background-position: right !important; */
   background-size: contain;
+  background-position-y: top;
+  height: 200px;
+  /* width: 300px; */
 }
 .side_img{
   height: 387px;

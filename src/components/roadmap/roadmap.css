@@ -39,7 +39,7 @@ color: #F71934;
     background-image: url("../../assets/CardRed.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 .text-Collectables{
     font-family: 'Orbitron';
@@ -53,4 +53,10 @@ text-align: center;
 text-transform: uppercase;
 
 color: #FFFFFF;
+}
+.card3_bg{
+    background-image: url("../../assets/Card3.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
 }

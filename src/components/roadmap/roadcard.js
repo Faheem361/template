@@ -2,7 +2,8 @@ import React from "react";
 import LineTop from "../../assets/lineTop.png";
 import GiftBox from "../../assets/GiftBox.png";
 import RedMan from "../../assets/redman.png";
-import whiteman from "../../assets/whiteman.png"
+import whiteman from "../../assets/whiteman.png";
+import whitegirl from "../../assets/whitegirl.png"
 function Roadcard() {
   return (
     <div className="container">
@@ -60,36 +61,22 @@ function Roadcard() {
                 </div></div>
             <div className="col-md-3 ">
             <div className="row d-flex justify-content-center">
-                <div className="col-md-12 card_bg">
-                  <div className="row d-flex justify-content-center">
-                    <div className="col-md-12 mt-5">
-                      {/* <img src={LineTop} className="img-fluid"/> */}
-                      <div className="text-artbook">Artbook</div>
-                      <div className="text-center mt-5 mb-5">
-                        <img
-                          src={GiftBox}
-                          className="img-fluid"
-                          width={"150px"}
-                        />
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-12 card_bg mt-3">
+                <div className="col-md-12 card3_bg">
                   <div className="row d-flex justify-content-center">
                     <div className="col-md-12 mt-5">
                       {/* <img src={LineTop} className="img-fluid"/> */}
                       <div className="text-artbook">Merchandise</div>
                       <div className="text-center mt-5 mb-5">
                         <img
-                          src={whiteman}
+                          src={whitegirl}
                           className="img-fluid"
-                          width={"110px"}
+                          width={"230px"}
                         />
                       </div>
                     </div>
                   </div>
                 </div>
+              
               </div>
             </div>
           </div>

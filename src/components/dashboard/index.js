@@ -11,7 +11,7 @@ import Lore from "../../assets/Lore.png";
 import logo from "../../assets/logo.png";
 import thelore from "../../assets/thelore.png";
 import thelore2 from "../../assets/thelore2.png";
-import enter from '../../assets/enter.png'
+import enter from '../../assets/enterbutton.png'
 import { Link } from "react-router-dom";
 const Dashboard = () => {
   var styles = { border: "2px solid black" }
@@ -40,8 +40,8 @@ const Dashboard = () => {
 
             {/* <span className="px-2 py-2  enter" style={styles}>Enter</span> */}
             <button className="enter">
-            <img src={enter} />
-            <p className="enter_text">  Enter </p>
+            <img src={enter} className="img-fluid" width={"200px"} />
+            {/* <p className="enter_text">  Enter </p> */}
             </button>
           </div>
           <div className="col-md-6 p-2 p-lg-5 back">

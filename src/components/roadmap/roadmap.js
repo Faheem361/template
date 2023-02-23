@@ -1,7 +1,8 @@
 import React from "react";
-import thelore from "../../assets/thelore.png";
-import thelore2 from "../../assets/thelore2.png";
+import thelore from "../../assets/Roadmap.png";
+import thelore2 from "../../assets/Roadmap2.png";
 import "./roadmap.css";
+import line from "../../assets/Vector.png"
 function Roadmap() {
   return (
     <div className="container">
@@ -11,6 +12,7 @@ function Roadmap() {
             <img src={thelore} alt="side" className="side_img" />
             <img src={thelore2} alt="side" className="side_img2" />
             <h3 className="text-roadmap">Road Map</h3>
+            <img src ={line} className="img-fluid" width={"250px"}></img>
             <p className="text-pararaod">
               While exploring the outlines of Surge we realized there is a huge
               gap between the virtual and physical world. Bridging them together
